@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    background-color: rgb(55, 55, 55);
+    display: flex;
+    justify-content: space-around;
+    height: 50px;
+}
+
+.form-area {
+    margin-top: 50px;
+}
+
+
+.icon-site {
+    align-self: center;
+    color: lightblue;
+}
+
+.nav-list {
+    align-self: center;
+}
+
+.nav-item {
+    display: contents;
+    
+}
+
+
+.nav-link {
+    text-decoration: none;
+    margin: 10px;
+}
+
